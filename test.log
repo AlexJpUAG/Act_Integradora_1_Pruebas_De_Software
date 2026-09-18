@@ -1,0 +1,24 @@
+INFO     root:test_conversiones.py:26 CP1 - Celsius a Fahrenheit: entrada=0, esperado=32
+INFO     root:test_conversiones.py:32 Resultado obtenido: 32.0
+INFO     root:test_conversiones.py:26 CP1 - Celsius a Fahrenheit: entrada=25, esperado=77
+INFO     root:test_conversiones.py:32 Resultado obtenido: 77.0
+INFO     root:test_conversiones.py:26 CP1 - Celsius a Fahrenheit: entrada=100, esperado=212
+INFO     root:test_conversiones.py:32 Resultado obtenido: 212.0
+INFO     root:test_conversiones.py:51 CP2 - Kilómetros a millas: entrada=1, esperado=0.621371
+INFO     root:test_conversiones.py:57 Resultado obtenido: 0.621371
+INFO     root:test_conversiones.py:51 CP2 - Kilómetros a millas: entrada=10, esperado=6.21371
+INFO     root:test_conversiones.py:57 Resultado obtenido: 6.21371
+INFO     root:test_conversiones.py:51 CP2 - Kilómetros a millas: entrada=100, esperado=62.1371
+INFO     root:test_conversiones.py:57 Resultado obtenido: 62.137100000000004
+INFO     root:test_conversiones.py:76 CP3 - Pesos a dólares: entrada=18.5, esperado=1
+INFO     root:test_conversiones.py:82 Resultado obtenido: 1.0
+INFO     root:test_conversiones.py:76 CP3 - Pesos a dólares: entrada=185, esperado=10
+INFO     root:test_conversiones.py:82 Resultado obtenido: 10.0
+INFO     root:test_conversiones.py:76 CP3 - Pesos a dólares: entrada=1850, esperado=100
+INFO     root:test_conversiones.py:82 Resultado obtenido: 100.0
+INFO     root:test_conversiones.py:105 CP4 - Precisión: resultado=77.00
+INFO     root:test_conversiones.py:105 CP4 - Precisión: resultado=50.00
+INFO     root:test_conversiones.py:105 CP4 - Precisión: resultado=65.30
+INFO     root:test_conversiones.py:130 CP5 - Integridad de entrada: original=0, entrada_despues=0
+INFO     root:test_conversiones.py:130 CP5 - Integridad de entrada: original=25, entrada_despues=25
+INFO     root:test_conversiones.py:130 CP5 - Integridad de entrada: original=100, entrada_despues=100
